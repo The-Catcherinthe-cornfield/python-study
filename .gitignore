@@ -1,0 +1,16 @@
+# Python 缓存（不要上传）
+__pycache__/
+*.py[cod]
+
+# 虚拟环境：几百个第三方文件，绝对不要上传
+.venv/
+venv/
+env/
+
+# 编辑器配置
+.idea/
+.vscode/
+
+# 其它
+*.log
+.DS_Store
